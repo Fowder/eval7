@@ -20,9 +20,11 @@ Retourner sur votre site wordpress et cliquez sur `extensions` et activer
 
 Dans le menu d'administration est donc apparu le plugin, allez sur import et importez le fichier evaluation7.Le projet est désormais monté.
 
+User : Fowder
+Password : ********
+
+Comme module, j'ai utilisé wp-shortcode qui permet d'utiliser des shortcodes afin de créer des composants plus rapidement.
+
 PS : Après l'adresse du site, il faut ajouter index.php (Je sais pas pourquoi)
 
 Exemple : test.local/index.php/simplon
-
-User : Fowder
-Password : ********
