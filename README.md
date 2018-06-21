@@ -21,3 +21,6 @@ Dans le menu d'administration est donc apparu le plugin, allez sur import et imp
 PS : Après l'adresse du site, il faut ajouter index.php (Je sais pas pourquoi)
 
 Exemple : test.local/index.php/simplon
+
+User : root
+Password : simplonco
