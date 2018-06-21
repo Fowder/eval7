@@ -13,6 +13,8 @@ Si wordpress n'as pas pu créer de fichier wp-config, copier le texte indiquer e
 
 Ensuite il vous faut  [https://fr.wordpress.org/plugins/all-in-one-wp-migration/]:télécharger le plugin permettant d'effectuer une migration d'un site wordpress.Une fois télécharger il faut l'extraire dans `wordpress/wp-content/plugins/` .
 
+Dans votre console, allez dans le dossier contenant le dossier wordpress et faites : `sudo chmod -R 777 .`
+
 Retourner sur votre site wordpress et cliquez sur `extensions` et activer
 <dt>All-in-One WP Migration</dt>
 
