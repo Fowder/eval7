@@ -24,5 +24,5 @@ PS : Après l'adresse du site, il faut ajouter index.php (Je sais pas pourquoi)
 
 Exemple : test.local/index.php/simplon
 
-User : root
-Password : simplonco
+User : Fowder
+Password : ********
