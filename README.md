@@ -17,3 +17,7 @@ Retourner sur votre site wordpress et cliquez sur `extensions` et activer
 <dt>All-in-One WP Migration</dt>
 
 Dans le menu d'administration est donc apparu le plugin, allez sur import et importez le fichier evaluation7.Le projet est désormais monté.
+
+PS : Après l'adresse du site, il faut ajouter index.php (Je sais pas pourquoi)
+
+Exemple : test.local/index.php/simplon
